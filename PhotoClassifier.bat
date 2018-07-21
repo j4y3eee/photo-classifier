@@ -1,5 +1,6 @@
 @echo off
 REM Photo Classifier
+REM https://github.com/jayeeeeee/photo-classifier/
 cls
 echo "   ___ _           _                     "
 echo "  / _ \ |__   ___ | |_ ___               "
